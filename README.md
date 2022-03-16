@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zoran Antovski.
-- 👀 I’m interested to learn coding.
+- 👀 I’m interested to learn coding, any suggestions?
 - 🌱 I’m currently learning HTML & CSS.
 - 💞️ I’m looking to collaborate on whatever for beginner.
 - 📫 How to reach me zantovski@yahoo.com
